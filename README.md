@@ -16,7 +16,7 @@ Exemplo:
 2. Se a vaga já foi preenchida, feche a issue. Isso evita que você receba currículos desnecessariamente.
 3. Todas as vagas passarão pelo filtro de **VAGAS ARROMBADAS**! Estamos bem atentas a projetos e empresas que se aproveitam dos profissionais ou que não têm práticas dentro dos limites éticos.
 
-##Informações importantes para candidatura
+## Informações importantes para candidatura
 1. Se não está interessada, não mande currículo
 2. Se acontecer qualquer imprevisto durante o processo, entre em contato com o contato da vaga **imediatamente**.
 3. Tenha certeza de que está aderente ao foco principal da vaga. Qualquer insegurança, procure a qualquer mina do grupo para uma mentoria. Nós vamos te ajudar.
