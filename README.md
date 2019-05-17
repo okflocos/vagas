@@ -8,6 +8,7 @@ São bem vindas vagas de estágio, trainee, emprego, freelance, temporários, ab
 As vagas ficam disponíveis nas [_issues_](https://github.com/minasdeti/vagas/issues).
 Para concorrer, verifique se as exigências da vaga estão de acordo com o seu perfil e se atendem também às suas expectativas. Cada empresa possui seu método de seleção. Então, atente para este fato e siga as recomendações descritas na vaga.
 Para divulgar, [**abra uma issue**](https://github.com/minasdeti/vagas/issues/new 'abra uma issue') com o título no seguinte formato:
+
 **[CIDADE-UF] FUNÇÃO NÍVEL** na/no/em **[EMPRESA]**
 
 Exemplo:
